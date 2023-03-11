@@ -1,3 +1,4 @@
+""" This is a simple project to insert item in array and delete item as your choice """
 fruits = ['apple','banana','orange','lemon']
 print(" ********** Chose your action: ************* ")
 print("1. View list")
